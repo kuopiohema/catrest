@@ -1,5 +1,5 @@
-{
-    "sibling": "Sisarus",
-    "parent": "Vanhempi",
-    "mud": "Rekisteriluovuttaja"
-}
+[
+    "Sisarus",
+    "Vanhempi",
+    "Rekisteriluovuttaja"
+]

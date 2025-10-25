@@ -1,11 +1,11 @@
-{
-    "mgm2": "mg/m²",
-    "mgkg": "mg/kg",
-    "mg": "mg",
-    "um2": "U/m²",
-    "ukg": "U/kg",
-    "u": "U",
-    "ugm2": "µg/m²",
-    "ugkg": "µg/kg",
-    "ug": "µg"
-}
+[
+    "mg/m²",
+    "mg/kg",
+    "mg",
+    "U/m²",
+    "U/kg",
+    "U",
+    "µg/m²",
+    "µg/kg",
+    "µg"
+]

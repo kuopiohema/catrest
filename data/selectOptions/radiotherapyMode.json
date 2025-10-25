@@ -1,8 +1,8 @@
-{
-    "photon": "Fotonisädehoito",
-    "photon-hyper": "Fotonisädehoito (hyperfraktioitu)",
-    "photon-hypo": "Fotonisädehoito (hypofraktioitu)",
-    "proton": "Protonisädehoito",
-    "gamma": "Stereotaktinen (\"gammaveitsi\")",
-    "brachy": "Sisäinen (brakyterapia)"
-}
+[
+    "Fotonisädehoito",
+    "Fotonisädehoito (hyperfraktioitu)",
+    "Fotonisädehoito (hypofraktioitu)",
+    "Protonisädehoito",
+    "Stereotaktinen (\"gammaveitsi\")",
+    "Sisäinen (brakyterapia)"
+]
