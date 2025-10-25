@@ -1,10 +1,10 @@
-{
-    "oneg": "O RhD-",
-    "opos": "O RhD+",
-    "aneg": "A RhD-",
-    "apos": "A RhD+",
-    "bneg": "B RhD-",
-    "bpos": "B RhD+",
-    "abneg": "AB RhD-",
-    "abpos": "AB RhD+"
-}
+[
+    "O RhD-",
+    "O RhD+",
+    "A RhD-",
+    "A RhD+",
+    "B RhD-",
+    "B RhD+",
+    "AB RhD-",
+    "AB RhD+"
+]
